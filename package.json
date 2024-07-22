@@ -1,0 +1,15 @@
+{
+  "name": "reduxsample",
+  "version": "1.0.0",
+  "description": "- Managing App-Wide State with Redux\r  - What Is Redux? And Why Would You Use It?\r  - Redux Basics & Using Redux with React\r  - Working with Redux Toolkit",
+  "main": "redux_Demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
